@@ -72,6 +72,7 @@
       "flex-layout.col#spacer",
       "search-bar",
       "locale-switcher",
+      // "popover-trigger#locale-switcher",
       "login",
       "minicart.v2"
     ]

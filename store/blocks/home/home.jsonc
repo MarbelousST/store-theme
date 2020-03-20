@@ -9,6 +9,7 @@
       "__fold__.desktop",
       "rich-text#shelf-title",
       "flex-layout.row#shelf",
+      "popover-trigger#locale-switcher",
       "info-card#home",
       "rich-text#question",
       "rich-text#link",

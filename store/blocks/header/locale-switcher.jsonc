@@ -1,0 +1,55 @@
+{
+  "popover-trigger#locale-switcher": {
+    "children": [
+      "icon-globe",
+      "rich-text#current-locale",
+      "popover-layout#locale-switcher"
+    ],
+    "props": {
+      "blockClass": "localeSwitcher"
+    }
+  },
+  "rich-text#current-locale": {
+    "props": {
+      "text": "EN",
+      "blockClass": "localeSwitcher"
+    }
+  },
+  "popover-layout#locale-switcher": {
+    "children": [
+      // "locale-switcher-list"
+    ]
+  }
+  // "locale-switcher-list": {
+  //   "children": [
+  //     "locale-switcher-item#en",
+  //     "locale-switcher-item#pt",
+  //     "locale-switcher-item#es",
+  //     "locale-switcher-item#jp"
+  //   ]
+  // },
+  // "locale-switcher-item#en": {
+  //   "props": {
+  //     "label": "EN",
+  //     "localeId": "en-US"
+  //   }
+  // },
+  // "locale-switcher-item#pt": {
+  //   "props": {
+  //     "label": "PT",
+  //     "localeId": "pt-BR"
+  //   }
+  // },
+  // "locale-switcher-item#es": {
+  //   "props": {
+  //     "label": "ES",
+  //     "localeId": "es-AR"
+  //   }
+  // },
+  // "locale-switcher-item#jp": {
+  //   "props": {
+  //     "label": "JA",
+  //     "localeId": "ja-JP"
+  //   }
+  // }
+}
